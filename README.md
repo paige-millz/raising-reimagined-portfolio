@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.jpg" alt="Raising Reimagined" width="100%"/>
+</p>
+
 <div align="center">
 
 # Raising Reimagined
